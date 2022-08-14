@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/EtishaGarg/MintNFT#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.1",
+    "@openzeppelin/contracts": "^4.7.2",
     "@truffle/hdwallet-provider": "^2.0.0",
     "dotenv": "^10.0.0",
     "web3": "^1.6.1"
